@@ -11,7 +11,8 @@ Unesenu riječ je potrebno obraditi na sljedeći način:
   - obrađenu riječ zapisati u words.json datoteku
 
 SADRŽAJ:
-index.php                - HTML
-word_functions.php       - PHP s funkcijama za obradu riječi
-submit_word_action.php   - PHP funkcija koja se poziva prilikom klika na submit gumb
-styles.css               - CSS za index.php
+1) 23JAN_words.json         -> JSON koji sadrži analizirane riječi i podatke o istima
+2) index.php                -> HTML i homepage
+3) styles.css               -> CSS za index.php
+4) submit_word_action.php   -> PHP funkcija koja se poziva prilikom klika na submit gumb
+5) submit_word_action.php   -> PHP funkcija koja se poziva prilikom klika na submit gumb
