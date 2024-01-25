@@ -1,0 +1,20 @@
+[
+    {
+        "WORD": "TEsT",
+        "LENGTH": 4,
+        "VOWEL_COUNT": 1,
+        "CONSONANT_COUNT": 3
+    },
+    {
+        "WORD": "PArCijAlni",
+        "LENGTH": 10,
+        "VOWEL_COUNT": 4,
+        "CONSONANT_COUNT": 6
+    },
+    {
+        "WORD": "IsPIT",
+        "LENGTH": 5,
+        "VOWEL_COUNT": 2,
+        "CONSONANT_COUNT": 3
+    }
+]
